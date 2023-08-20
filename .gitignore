@@ -134,4 +134,7 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
+#SonarLintModuleSettings
+*.iml
+
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij+all,maven
